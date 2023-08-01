@@ -1,4 +1,4 @@
-# Project Spring Boot estudo de caso Ionic em progresso.
+# Project Spring Boot Ionic estudo de caso em progresso.
 
 
 ## Tecnologias:
