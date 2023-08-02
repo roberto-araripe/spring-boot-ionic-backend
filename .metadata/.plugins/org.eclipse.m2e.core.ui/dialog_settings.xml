@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Roberto\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\PROJETOS\Spring Boot Ionic\springbootprojectmc"/>
+			<item value="C:\Users\Roberto\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\PROJETOS\Spring Boot Ionic"/>
 			<item value="C:\Users\Roberto\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\PROJETOS\Spring Boot New\springbootprojectmc"/>
 		</list>
 		<list key="projectNameTemplate">
